@@ -4,3 +4,5 @@
 Storing Code files for my Midi Keyboard :D
 Midi keyboard is pretty cool, I think it's a music thing actually, im trying to make this work well but it's not really working out. I've had problems with the footprints and making pads fit.this is just a placeholder draft haha so ill update this as i progress through making the MIDI keyboard
 
+!!IMPORTANT!!
+I'm extremely sorry for the reviewers, my sister took my computer and posted a kindness reel for my closing reel, and she messed up a lot of stuff and I had to hassle with her a lot, so there wasn't a lot of time to submit properly. Please give me more time if possible, I can properly redo the things that she deleted.
