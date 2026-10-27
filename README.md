@@ -28,3 +28,12 @@ I ran into huge problems routing for this project, but I really learned a lot mo
    - This is a sliding fader knob, it connects to an analog pin to continuously measure its exact physical position making it perfect for smooth volume fades, modulation, or filter sweeps.
 6. Custom 7-Pad Capacitive Touch Keys
    - This is my custom Undertale soul-heart touch interface. These copper touch pads register the electrical capacitance of my fingertips when I touch them, giving me extra touch-sensitive keys.
+
+### **MIDI Keyboard Project Bill of Materials (BOM)**
+
+| Part / Description | Qty | Unit Price | Total Price | Vendor | Link |
+| --- | --- | --- | --- | --- | --- |
+| **Custom MIDI Keyboard PCB** (Fabricated circuit board) | 1 | blank | blank | JLCPCB | blank 
+
+* **Total Tax & Shipping for the whole order:** $17.69
+
