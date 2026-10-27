@@ -1,8 +1,19 @@
-<img width="1410" height="1022" alt="Screenshot 2026-10-25 205341" src="https://github.com/user-attachments/assets/d2d69c1f-9880-4b9b-857b-c4e464b9bdb9" />
-<img width="1333" height="970" alt="Screenshot 2026-10-25 205351" src="https://github.com/user-attachments/assets/93bdd06e-307a-4f07-b715-ef472272109b" />
-# MidiKeyboard
-Storing Code files for my Midi Keyboard :D
-Midi keyboard is pretty cool, I think it's a music thing actually, im trying to make this work well but it's not really working out. I've had problems with the footprints and making pads fit.this is just a placeholder draft haha so ill update this as i progress through making the MIDI keyboard
+**MIDI Keyboard**
 
-!!IMPORTANT!!
-I'm extremely sorry for the reviewers, my sister took my computer and posted a kindness reel for my closing reel, and she messed up a lot of stuff and I had to hassle with her a lot, so there wasn't a lot of time to submit properly. Please give me more time if possible, I can properly redo the things that she deleted.
+This is my MIDI Keyboard, as per the guide from Halflife! The file called "Production" has everything necessary for JLCPCB production. As for the rest of the files, the one that end in _pcb is my PCB, _sch is my schematic, and _pro is the whole project. 
+
+**!!IMPORTANT!!**
+
+I'm extremely sorry for the reviewers, my sister took my computer and posted a kindness reel for my closing reel, and she messed up a lot of stuff and I had to hassle with her a lot, so there wasn't a lot of time to submit properly.
+
+Some pictures of my work:
+<img width="1919" height="1023" alt="Screenshot 2026-10-27 004212" src="https://github.com/user-attachments/assets/3cd9a0cb-3fc4-47af-88f0-c4e21dd9eea7" />
+<img width="934" height="709" alt="Screenshot 2026-10-27 004123" src="https://github.com/user-attachments/assets/b1895616-1f2e-46e8-8e16-efcc15f6809e" />
+
+
+I gave myself a challenge, for each Hack Club hardware design I make, I'll try to incorporate the Undertale hearts somehow on my PCB's! (Maybe only for Halflife actually..)
+I ran into huge problems routing for this project, but I really learned a lot more than I thought I would from it. Hopefully things work out.
+
+**Here's what each part does!**
+
+1. 
