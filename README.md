@@ -35,5 +35,5 @@ I ran into huge problems routing for this project, but I really learned a lot mo
 | --- | --- | --- | --- | --- | --- |
 | **Custom MIDI Keyboard PCB** (Fabricated circuit board) | 1 | blank | blank | JLCPCB | blank 
 
-* **Total Tax & Shipping for the whole order:** $17.69
+* **Total Tax & Shipping for the whole order:** blank
 
