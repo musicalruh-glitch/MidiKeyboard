@@ -16,4 +16,15 @@ I ran into huge problems routing for this project, but I really learned a lot mo
 
 ### **Here's what each part does!**
 
-1. 
+1. Waveshare ESP32-S3 Zero (Microcontroller)
+   - This is just the microcontroller of the board, it processes the inputs and runs custom code.
+2. Kalih Choc Low-Profile Switches x3
+   - These are the tactile mechanical keys for the MIDI!!
+3. SK6812MINI-E Addressable RGB LEDs x3
+   - These are small smart lights, I'm going to solder these to the back of the PCB and they'll shine up through my board's custom cutout holes to provide glowing, customizable underglow backlighting.
+4. EC11 Rotary Encoder
+   - This is a dial knob that can also be pushed down like a button, awesome for adjusting volume + changing parameters or just scrolling through menus!! :D
+5. Bourns Slide Potentiometer
+   - This is a sliding fader knob, it connects to an analog pin to continuously measure its exact physical position making it perfect for smooth volume fades, modulation, or filter sweeps.
+6. Custom 7-Pad Capacitive Touch Keys
+   - This is my custom Undertale soul-heart touch interface. These copper touch pads register the electrical capacitance of my fingertips when I touch them, giving me extra touch-sensitive keys.
