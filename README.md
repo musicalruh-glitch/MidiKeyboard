@@ -1,8 +1,8 @@
-**MIDI Keyboard**
+### **MIDI Keyboard**
 
 This is my MIDI Keyboard, as per the guide from Halflife! The file called "Production" has everything necessary for JLCPCB production. As for the rest of the files, the one that end in _pcb is my PCB, _sch is my schematic, and _pro is the whole project. 
 
-**!!IMPORTANT!!**
+ ### **!!IMPORTANT!!**
 
 I'm extremely sorry for the reviewers, my sister took my computer and posted a kindness reel for my closing reel, and she messed up a lot of stuff and I had to hassle with her a lot, so there wasn't a lot of time to submit properly.
 
@@ -14,6 +14,6 @@ Some pictures of my work:
 I gave myself a challenge, for each Hack Club hardware design I make, I'll try to incorporate the Undertale hearts somehow on my PCB's! (Maybe only for Halflife actually..)
 I ran into huge problems routing for this project, but I really learned a lot more than I thought I would from it. Hopefully things work out.
 
-**Here's what each part does!**
+### **Here's what each part does!**
 
 1. 
