@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 7.77h | 5 |
+| Week 3 | Tier 1 | 10.59h | 5 |
 
 ## Contents
 
@@ -18,7 +18,7 @@
 2. [2026-10-25: Work session](#2026-10-25-work-session)
 3. [2026-10-25: An hour of pure struggling on my MIDI keyboard in the footprint editor of KiCad because I don't know how to make the pads look like a L shape so I can make a piano shape T-T](#2026-10-25-an-hour-of-pure-struggling-on-my-midi-keyboard-in)
 4. [2026-10-25: Whew that was so tiring T-T](#2026-10-25-whew-that-was-so-tiring-t-t)
-5. [2026-10-25: i just took a nap, but i'm finally done with my MIDI keyboard i think..](#2026-10-25-i-just-took-a-nap-but-im-finally-done-with-my-mid)
+5. [2026-10-25: i just took a nap, but i'm finally done with my MIDI keyboard!!](#2026-10-25-i-just-took-a-nap-but-im-finally-done-with-my-mid)
 
 ## Design
 
@@ -70,12 +70,14 @@ yes i spent an hour fixing one small probelm
 
 [Timelapse](https://lookout.hackclub.com/api/media/2c361387-7480-4355-bd3c-426b9d33134b/video.mp4)
 
-### 2026-10-25: i just took a nap, but i'm finally done with my MIDI keyboard i think..
+### 2026-10-25: i just took a nap, but i'm finally done with my MIDI keyboard!!
 
-**2.05h**
+**4.87h**
 
-i just took a nap, but i'm finally done with my MIDI keyboard i think..
+i just took a nap, but i'm finally done with my MIDI keyboard!!
 
 theres like 10 minutes left on the submit so thats that haha i think ill just turn it in.
 
 [Timelapse](https://lookout.hackclub.com/api/media/14e6f2ba-bd88-4609-9aaf-6354e59db46b/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/5c870549-8c68-4848-bd9f-51ceb3a6685d/video.mp4)
