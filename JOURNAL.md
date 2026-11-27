@@ -76,6 +76,16 @@ yes i spent an hour fixing one small probelm
 
 i just took a nap, but i'm finally done with my MIDI keyboard!!
 
+routing is HELL. good thing, i finally learned how to! this has actually been an eye opener for me and instead of routing my whole board in red, you're telling me there's layers?
+
+LAYERS??!
+
+so now every time I route, it takes me 15 minutes, tops. who knew routing could be so easy? and I thought it was the hardest thing ever lol. mind you, I reformatted my board a gazillion times too so it would look okay. honestly i feel bad because in the guide they said they used  a simple shape by making their touchpads in the format of a piano, but i think that I might've gone simpler.
+
+it's genuinely just rectangles. next to each other. 
+
+well i uploaded all my files in "production" to be exported for, well, production. and i uploaded my KiCad files! 
+
 theres like 10 minutes left on the submit so thats that haha i think ill just turn it in.
 
 [Timelapse](https://lookout.hackclub.com/api/media/14e6f2ba-bd88-4609-9aaf-6354e59db46b/video.mp4)
